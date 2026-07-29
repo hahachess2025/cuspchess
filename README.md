@@ -1,0 +1,2 @@
+# cuspchess
+Cusp Chess GUI
