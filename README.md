@@ -15,9 +15,11 @@ victory detection, and a graphical interface.
 
 ```bash
 pip install -r requirements.txt
-```bash
-## Running
 ```
+
+## Running
+
+```bash
 python main.py
 ```
 ---
