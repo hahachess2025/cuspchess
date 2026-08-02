@@ -13,12 +13,18 @@ victory detection, and a graphical interface.
 ---
 ## Requirements
 
-- Python 3
-  Developed using Python 3.10. Other recent Python 3 versions may also work.
+- Python 3. Developed using Python 3.10. Other recent Python 3 versions may also work.
 - python-chess
 - pygame
 - Pillow
-  
+
+## Clone the repository:
+
+```bash
+git clone https://github.com/hahachess2025/cuspchess.git
+cd project
+```
+
 ## Installation
 
 ```bash
