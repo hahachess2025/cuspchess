@@ -11,9 +11,16 @@ the complete rules of the game, including special moves, move validation,
 victory detection, and a graphical interface.
 
 ---
+## Installation
 
+```bash
+pip install -r requirements.txt
+```bash
+## Running
+```
+python main.py
+```
 ---
-
 For more information, check the rulebook and my 26-page preprint paper:
 Freestyle Player-Balancing: A Novel Flexible Framework for Addressing Game Balance 
 and Opening Memorization in Decisive, Two-Player, Perfect-Information, Turn-Based Games
