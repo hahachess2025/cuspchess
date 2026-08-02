@@ -5,7 +5,9 @@ Cusp Chess is a decisive chess variant based on Freestyle Player-Balancing. This
 This game is suitable for both human players and AI engines.
 
 ---
-##
+
+---
+
 For more information, check the rulebook and my 26-page preprint paper:
 Freestyle Player-Balancing: A Novel Flexible Framework for Addressing Game Balance 
 and Opening Memorization in Decisive, Two-Player, Perfect-Information, Turn-Based Games
