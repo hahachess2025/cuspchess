@@ -4,7 +4,7 @@
 Cusp Chess is a decisive chess variant based on Freestyle Player-Balancing. Cusp Chess aims to eliminate draws. By giving a color an edge, the color must win and draw means loss for it. Then all other standard chess rules apply.
 
 This game is suitable for both human players and AI engines.
-
+---
 
 This project implements Cusp Chess in Python. It supports
 the complete rules of the game, including special moves, move validation,
