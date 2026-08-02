@@ -169,16 +169,16 @@ One-Free move is illegal in standard chess. It is designed to create more good f
 •	A player can’t move the opponent’s pieces.
 •	If a color sets up a fight-starting position to let the opponent choose a color, the opposite color automatically becomes the side to move in Fight Phase. For example, a tentative white player set up a fight-starting position to let tentative black player choose a color. In the fight-starting position, the side to move must be Black.
 •	If a player chooses a must-win color directly, the side to move in the position doesn’t change. For example, if a tentative White player chose a color directly, in the fight starting position the White side is to move.
-•	All moves in Human-Level-Mode can’t break the rules in 6.5.
+•	All moves in Human-Level-Mode can’t break the rules in 9.5.
 •	Human-Level-Mode is enough for human players and engines. Rules of Human-Level-Mode can be refined if necessary. The goal is to maximize the good fight starting position options for most safe positions while minimize the number of legal setup move options.
 
 9.4 Engine-Test-Mode of One-Free move
-•	All moves in Human-Level-Mode in 6.3.
+•	All moves in Human-Level-Mode in 9.3.
 •	A player can relocate a piece of any color to any square (either empty or occupied).
 •	A bishop can’t be relocated to the opposite color square.
 •	A player can set the side to move freely when setting up a fight-starting position.
 •	A pawn can be promoted when relocated directly to the last rank.
-•	All moves in Engine-Test-Mode can’t break the rules in 6.5.
+•	All moves in Engine-Test-Mode can’t break the rules in 9.5.
 •	Engine-Test-Mode can create much more good fight-starting positions, compared to Human-Level-Mode. It is not suitable for human players.
 
 9.5 Forbidden moves and positions
@@ -188,7 +188,7 @@ One-Free move is illegal in standard chess. It is designed to create more good f
 •	Illegal castling is not allowed.
 •	Moving more than one piece is not allowed, except a legal castling.
 
-9.6 Legal moves if they don’t break rules in 6.5
+9.6 Legal moves if they don’t break rules in 9.5
 •	A player can setup a fight-starting position when a color is checked.
 •	A pawn can get legal promotion.
 
