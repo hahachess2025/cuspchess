@@ -11,6 +11,14 @@ the complete rules of the game, including special moves, move validation,
 victory detection, and a graphical interface.
 
 ---
+## Requirements
+
+- Python 3
+  Developed using Python 3.10. Other recent Python 3 versions may also work.
+- python-chess
+- pygame
+- Pillow
+  
 ## Installation
 
 ```bash
