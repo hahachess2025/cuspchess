@@ -1,7 +1,7 @@
 # Cusp Chess
 # ♟️ [Cusp Chess]
 
-Cusp Chess is a decisive chess variant based on Freestyle Player-Balancing (the pie rule is not enough here). Cusp Chess aims to eliminate draws. By giving a color an edge, the color must win and draw means loss for it. Then all other standard chess rules apply.
+Cusp Chess is a decisive chess variant based on Freestyle Player-Balancing (the pie rule is not enough here). Cusp Chess aims to eliminate draws. By giving a color an edge, the color must win and draw means loss for it. Then all other standard chess rules apply. Who, when and how to give the edge? The answer is Freestyle Player-Balancing.
 
 This game is suitable for both human players and AI engines.
 ---
