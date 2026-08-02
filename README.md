@@ -1,4 +1,4 @@
-# cuspchess
+# Cusp Chess
 # ♟️ [Cusp Chess]
 
 Cusp Chess is a decisive chess variant based on Freestyle Player-Balancing. This variant aims to eliminate draws. By giving a color an edge, the color must win and draw means loss for it. Then all other standard chess rules apply.
