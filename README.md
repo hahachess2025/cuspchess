@@ -10,6 +10,8 @@ This project implements Cusp Chess in Python. It supports
 the complete rules of the game, including special moves, move validation,
 victory detection, and a graphical interface.
 
+It also supports all chess engines, such as Storckfish, Leela Chess Zero, etc.
+
 ---
 ## Requirements
 
