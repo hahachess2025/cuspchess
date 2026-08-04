@@ -14,7 +14,7 @@ It also supports all chess engines, such as Storckfish, Leela Chess Zero, etc.
 
 ---
 
-[Download Cusp Chess Rulebook PDF](Documents/Cusp Chess Rulebook version 0.1.pdf)
+[Download Cusp Chess Rulebook PDF](Documents/Cusp Chess Rulebook version 0.1.pdf) 
 
 [Download the Latest Cusp Chess GUI Release for Windows](https://github.com/hahachess2025/cuspchess/releases/download/v1.0.0/CuspChessGUI-v1.0-windows.zip)
 
