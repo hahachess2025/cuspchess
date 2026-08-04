@@ -28,7 +28,8 @@ class ChessEngine:
         
     def run(self):
         try:
-            self.engine = chess.engine.SimpleEngine.popen_uci(self.engine_path)
+            self.engine = chess.engine.SimpleEngine.popen_uci(self.engine_path,
+                                 creationflags=subprocess.CREATE_NO_WINDOW )
             options = self.engine.options
             if "Hash" in options:
                 self.engine.configure({"Hash": 512,"Threads": 1, })
