@@ -11,8 +11,11 @@ the complete rules of the game, including special moves, move validation,
 victory detection, and a graphical interface.
 
 It also supports all chess engines, such as Storckfish, Leela Chess Zero, etc.
+
 ---
+
 you can just [Download the Latest Release](https://github.com/hahachess2025/cuspchess/releases/download/v1.0.0/CuspChessGUI-v1.0-windows.zip) and enjoy. or run the python code.
+
 ---
 ## Requirements
 
