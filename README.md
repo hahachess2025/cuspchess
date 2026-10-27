@@ -13,7 +13,7 @@ victory detection, and a graphical interface.
 It also supports all WDL-normailized chess engines, such as Storckfish, Leela Chess Zero, etc.
 
 ---
-600 games for each engine pair in my test.
+600 games for each engine pair in my test, and 10 seconds per move.
 The win rates of Stockfish 17.1 vs 17.1, 17, 16.1, 16, 15.1 are 49%, 60.2%, 63%, 68.7%, 81.3% respectively.
 
 ---
