@@ -10,7 +10,7 @@ This project implements Cusp Chess in Python. It supports
 the complete rules of the game, including special moves, move validation,
 victory detection, and a graphical interface.
 
-It also supports all WDL normailized chess engines, such as Storckfish, Leela Chess Zero, etc.
+It also supports all WDL-normailized chess engines, such as Storckfish, Leela Chess Zero, etc.
 
 ---
 600 games for each engine pair in my test.
