@@ -10,7 +10,11 @@ This project implements Cusp Chess in Python. It supports
 the complete rules of the game, including special moves, move validation,
 victory detection, and a graphical interface.
 
-It also supports all chess engines, such as Storckfish, Leela Chess Zero, etc.
+It also supports all WDL normailized chess engines, such as Storckfish, Leela Chess Zero, etc.
+
+---
+600 games for each engine pair in my test.
+The win rates of Stockfish 17.1 vs 17, 16.1, 16,15.1 are 49%, 60.2%, 63%, 68.7%, 81.3% respectively.
 
 ---
 
